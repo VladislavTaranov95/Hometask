@@ -1,11 +1,4 @@
-# Hometask
-
-Домашнее задание #1:
-
-1. Заполнить репозиторий типовыми для разработки файлами.(.gitignore, readme, )
-
-2. С помощью Lektor или любой похожей системы сделать сайт cheatsheet для самых распространнёных команд и задач линукс.
-
-3. Дополнить сайт разделом про самые распространённые команды и задачы Git.
-
-4. Дополнить сайт разделом про хоткеи выбранной IDE.
+1. Install Lektor: https://www.getlektor.com/docs/installation/ 
+2. - git clone https://github.com/VladislavTaranov95/Hometask.git
+3. Open terminal inside directory
+4. - lector server
